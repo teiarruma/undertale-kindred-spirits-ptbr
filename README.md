@@ -25,3 +25,10 @@
 ### [📞 Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
 Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
+
+## Capturas de Tela
+
+<div align="left">
+  <img alt="Batty caminhando na lenda" title="Batty caminhando na lenda" style="width: 24rem" src="./assets/batty_caminhando_lenda.png" />
+ <img alt="Batty e Mel sentadas em um banco nas Ruínas" title="Batty e Mel sentadas em um banco nas Ruínas" style="width: 24rem" src="./assets/batty_e_mel_banco_ruinas.png" />
+</div>
