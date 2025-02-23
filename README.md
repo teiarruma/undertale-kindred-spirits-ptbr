@@ -32,3 +32,12 @@ Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Disco
   <img alt="Batty caminhando na lenda" title="Batty caminhando na lenda" style="width: 24rem" src="./assets/batty_caminhando_lenda.png" />
  <img alt="Batty e Mel sentadas em um banco nas Ruínas" title="Batty e Mel sentadas em um banco nas Ruínas" style="width: 24rem" src="./assets/batty_e_mel_banco_ruinas.png" />
 </div>
+
+## Créditos (Prólogo)
+
+- **marCeL099** - Coordenação / Tradução Casual / Revisão / Sprites / Playtesting
+- **Kalleu11** - Tradução Casual / Fontes
+- **Eliandro** - Tradução Principal / Sprites
+- **Dan** - Tradução Principal / Revisão / Playtesting
+- **Nicolas_mcfly** - Tradução Casual
+- **CosmicBlume** - Coordenação / Tradução Principal / Revisão / Fontes / Playtesting
