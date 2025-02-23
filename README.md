@@ -18,6 +18,10 @@
 
  **Clique no botão para baixar a versão mais recente da tradução.** Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Gamejolt](https://gamejolt.com/games/undertale-kindred-spirits/145217) e substituir os arquivos do jogo.
 
+### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/undertale-kindred-spirits-ptbr/releases)
+
+**O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do prólogo do jogo é a [0.1.5999](https://github.com/teiarruma/undertale-kindred-spirits-ptbr/releases/latest).
+
 ### [📞 Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
 Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!
