@@ -31,6 +31,8 @@ Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Disco
 <div align="left">
   <img alt="Batty caminhando na lenda" title="Batty caminhando na lenda" style="width: 24rem" src="./assets/batty_caminhando_lenda.png" />
  <img alt="Batty e Mel sentadas em um banco nas Ruínas" title="Batty e Mel sentadas em um banco nas Ruínas" style="width: 24rem" src="./assets/batty_e_mel_banco_ruinas.png" />
+  <img alt="Arte da Batty" title="Arte da Batty" style="width: 24rem" src="./assets/batty.png" />
+ <img alt="Arte da Mel" title="Arte da Mel" style="width: 24rem" src="./assets/mel.png" />
 </div>
 
 ## Créditos (Prólogo)
